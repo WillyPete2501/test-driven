@@ -1,0 +1,19 @@
+{
+  "name": "test-driven",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-driven.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillyPete2501/test-driven.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WillyPete2501/test-driven/issues"
+  },
+  "homepage": "https://github.com/WillyPete2501/test-driven#readme"
+}
